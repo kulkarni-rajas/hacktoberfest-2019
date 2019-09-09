@@ -334,3 +334,8 @@
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
 
+#### Name: [Rajas Ajay Kulkarni](https://github.com/kulkarni-rajas)
+- Place: Durgapur,India
+- Bio: Lazy Dev
+- GitHub: [Rajas Ajay Kulkarni](https://github.com/kulkarni-rajas)
+
